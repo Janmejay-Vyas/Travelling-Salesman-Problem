@@ -19,7 +19,7 @@ pip3 install numpy matplotlib
 To run the program, clone the repository and navigate to the project directory in your terminal. Then run the following command:
 
 ```
-python3 tsp.py
+python3 Travelling Salesman Problem.py
 ```
 
 This will generate a plot of the shortest possible route that visits every city exactly once and returns to the starting city. The cities and their coordinates are defined in the cities.txt file. You can modify this file to test the program with different sets of cities.
